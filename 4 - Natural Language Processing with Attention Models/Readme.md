@@ -19,4 +19,4 @@ Build a chatbot using a reformer model
 
 <br/>
 
-![](Images\Certificate_Course_4.png)
+![](https://github.com/gracecarrillo/Natural-Language-Processing-Specialization/blob/master/4%20-%20Natural%20Language%20Processing%20with%20Attention%20Models/Images/Certificate_Course_4.png?raw=true)
