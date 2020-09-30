@@ -18,4 +18,4 @@ Write a simple English-to-French translation algorithm using pre-computed word e
 
 <br/>
 
-![](Images\Certificate_Course_1.png)
+![](https://github.com/gracecarrillo/Natural-Language-Processing-Specialization/blob/master/1%20-%20Natural%20Language%20Processing%20with%20Classification%20and%20Vector%20Spaces/Images/Certificate_Course_1.png?raw=true)
