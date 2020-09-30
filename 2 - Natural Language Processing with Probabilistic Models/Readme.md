@@ -19,4 +19,4 @@ Write your own Word2Vec model that uses a neural network to compute word embeddi
 
 <br/>
 
-![](Images\Certificate_Course_2.png)
+![](https://github.com/gracecarrillo/Natural-Language-Processing-Specialization/blob/master/2%20-%20Natural%20Language%20Processing%20with%20Probabilistic%20Models/Images/Certificate_Course_2.png?raw=true)
