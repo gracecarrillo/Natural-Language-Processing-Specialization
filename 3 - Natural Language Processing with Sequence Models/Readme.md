@@ -19,4 +19,4 @@ Use so-called ‘Siamese’ LSTM models to compare questions in a corpus and ide
 
 <br/>
 
-![](Images\Certificate_Course_3.png)
+![](https://github.com/gracecarrillo/Natural-Language-Processing-Specialization/blob/master/3%20-%20Natural%20Language%20Processing%20with%20Sequence%20Models/Images/Certificate_Course_3.png?raw=true)
