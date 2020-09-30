@@ -1,0 +1,11 @@
+# ignore these files
+*.config
+*.csv
+*.gz
+*.zip
+*.log
+
+# ignore these folders
+#ignore these folders
+*/__pycache__/*
+**/__pycache__/**
